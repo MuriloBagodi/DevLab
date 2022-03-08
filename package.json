@@ -1,0 +1,13 @@
+{
+  "name": "DevLab",
+  "version": "1.0.0",
+  "description": "TypeScript nodejs api",
+  "main": "index.js",
+  "repository": "git@github.com:MuriloBagodi/DevLab.git",
+  "author": "Murilo Bagodi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
